@@ -2,7 +2,7 @@ class VexCdt < Formula
 
    homepage "https://github.com/vexanium/vex.cdt/"
    revision 0
-   url "https://github.com/eosio/eosio.cdt/archive/v1.7.0.tar.gz"
+   url "https://github.com/vexanium/vex.cdt/archive/v1.7.0.tar.gz"
    version "1.7.0"
    
    option :universal
