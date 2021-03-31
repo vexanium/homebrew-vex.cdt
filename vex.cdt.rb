@@ -21,7 +21,7 @@ class VexCdt < Formula
    depends_on :arch =>  :intel
   
    bottle do
-      root_url "https://github.com/vexanium/vex.cdt/releases/download/1.7.0"
+      root_url "https://github.com/vexanium/vex.cdt/releases/download/v1.7.0"
       sha256 "cd4183525582edef621eb59c5ff485f48ecf5d28a37344f65a556ec965ba8109" => :mojave
    end
    def install
