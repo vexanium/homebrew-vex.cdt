@@ -22,7 +22,7 @@ class VexCdt < Formula
   
    bottle do
       root_url "https://github.com/vexanium/vex.cdt/releases/download/v1.7.0"
-      sha256 "cd4183525582edef621eb59c5ff485f48ecf5d28a37344f65a556ec965ba8109" => :mojave
+      sha256 "678d338adc7d6e8c352800fe03fc56660c796bd6da23eda2b1411fed18bd0d8d" => :mojave
    end
    def install
       raise "Error, only supporting binary packages at this time"
