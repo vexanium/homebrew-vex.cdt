@@ -22,7 +22,7 @@ class VexCdt < Formula
   
    bottle do
       root_url "https://github.com/vexanium/vex.cdt/releases/download/v1.7.0"
-      sha256 mojave: "c3f66cdf5fb02469a9e8d11cb2637eb347ba44b2b68ef77d84bdb1401d6bb685"
+      sha256 mojave: "44b9ab6e8d75212e888095e872cc101d2c4cc9d747d15696924868836e7988f9"
       
    end
    def install
